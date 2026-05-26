@@ -20,6 +20,8 @@ concurrency:
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -35,20 +37,20 @@ jobs:
 
       - name: Generate subscribed calendar
         env:
-          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          EARNINGSCALENDAR_API_KEY: ${{ secrets.EARNINGSCALENDAR_API_KEY }}
           CALENDAR_YEAR: '2026'
-          PAST_LOOKBACK_DAYS: '90'
+          FORECAST_DAYS_AHEAD: '90'
         run: python scripts/generate_calendar.py
 
       - name: Commit calendar changes only when needed
         run: |
-          if git diff --quiet -- earnings_calendar.ics data/api_cache.json; then
-            echo "No changes in earnings dates."
+          if git diff --quiet -- earnings_calendar.ics data/api_cache.json data/tickers.json; then
+            echo "No calendar changes."
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add earnings_calendar.ics data/api_cache.json
-            git commit -m "Auto-update earnings calendar"
+            git add earnings_calendar.ics data/api_cache.json data/tickers.json
+            git commit -m "Auto-update confirmed/projected earnings calendar"
             git push
           fi
 
@@ -59,12 +61,10 @@ jobs:
           cat > public/index.html <<'EOF'
           <!doctype html>
           <html lang="zh-CN">
-          <head>
-            <meta charset="utf-8">
-            <title>Chloe Earnings Calendar 2026</title>
-          </head>
+          <head><meta charset="utf-8"><title>Chloe Earnings Calendar 2026</title></head>
           <body>
-            <h1>Chloe 美股财报雷达 2026</h1>
+            <h1>Chloe 美股财报雷达</h1>
+            <p>⏳ = 预计日期；✅ = 公司公告确认日期</p>
             <p><a href="earnings_calendar.ics">订阅 earnings_calendar.ics</a></p>
           </body>
           </html>
