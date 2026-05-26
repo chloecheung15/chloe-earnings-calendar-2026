@@ -64,7 +64,8 @@ jobs:
           <head><meta charset="utf-8"><title>Chloe Earnings Calendar 2026</title></head>
           <body>
             <h1>Chloe 美股财报雷达 2026</h1>
-            <p>⏳ = 自动抓取财报日程；跨财报持仓前请核对公司 IR 官网。</p>
+            <p>标题格式：📊 NVDA｜盘后财报</p>
+            <p>📊 = 财报事件；跨财报持仓前请核对公司 IR 官网。</p>
             <p><a href="earnings_calendar.ics">订阅 earnings_calendar.ics</a></p>
           </body>
           </html>
