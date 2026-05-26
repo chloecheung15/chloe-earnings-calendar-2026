@@ -10,6 +10,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: earnings-calendar-update
@@ -18,6 +20,10 @@ concurrency:
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -38,10 +44,40 @@ jobs:
         run: |
           if git diff --quiet -- earnings_calendar.ics data/api_cache.json; then
             echo "No changes in earnings dates."
-            exit 0
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add earnings_calendar.ics data/api_cache.json
+            git commit -m "Auto-update earnings calendar"
+            git push
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add earnings_calendar.ics data/api_cache.json
-          git commit -m "Auto-update earnings calendar"
-          git push
+
+      - name: Prepare Pages calendar site
+        run: |
+          mkdir -p public
+          cp earnings_calendar.ics public/earnings_calendar.ics
+          cat > public/index.html <<'EOF'
+          <!doctype html>
+          <html lang="zh-CN">
+          <head>
+            <meta charset="utf-8">
+            <title>Chloe Earnings Calendar 2026</title>
+          </head>
+          <body>
+            <h1>Chloe 美股财报雷达 2026</h1>
+            <p><a href="earnings_calendar.ics">订阅 earnings_calendar.ics</a></p>
+          </body>
+          </html>
+          EOF
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
