@@ -1,25 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Chloe Earnings Radar Auto//ChatGPT//ZH
+PRODID:-//Chloe Earnings Radar Finnhub//ChatGPT//ZH
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:2026 美股财报雷达｜26只核心观察股｜自动更新
-X-WR-CALDESC:自动抓取 Finnhub 财报日历；⏳ 为数据源预告，
- 交易前请核对公司 IR。
+X-WR-CALNAME:2026 美股财报雷达｜26只观察股
+X-WR-CALDESC:2026全年滚动保留；⏳=自动抓取财报日程，下单
+ 前请核对公司IR官网。
 X-APPLE-CALENDAR-COLOR:#E45756
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:GLW-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:GLW-2026-04-28-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:🟠 ⏳ 财报｜GLW Corning｜Optical Connectivity
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：GLW｜Corning\n时间：盘前 / Before Market Open\n关注重点
- ：Optical Connectivity\nFiscal period：FY2026 Q1\nEPS estimate：0.6968\
- nRevenue estimate：$4.31B\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
+SUMMARY:⏳ 财报｜GLW｜Optical Connectivity
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：GLW\n期间：FY2026 Q1\n时间：盘前 / B
+ efore Market Open\n关注重点：Optical Connectivity\n数据来源：Fin
+ nhub Earnings Calendar
 CATEGORIES:美股财报,GLW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -30,16 +29,15 @@ DESCRIPTION:明天财报：GLW
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AMZN-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:AMZN-2026-04-29-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:🔥 ⏳ 财报｜AMZN Amazon｜AWS / AI CapEx
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：AMZN｜Amazon\n时间：盘后 / After Market Close\n关注重点
- ：AWS / AI CapEx\nFiscal period：FY2026 Q1\nEPS estimate：1.6703\nReven
- ue estimate：$180.85B\n数据源：Finnhub Earnings Calendar API（日期
- 可能改期）
+SUMMARY:⏳ 财报｜AMZN｜AWS / AI CapEx
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：AMZN\n期间：FY2026 Q1\n时间：盘后 / 
+ After Market Close\n关注重点：AWS / AI CapEx\n数据来源：Finnhub 
+ Earnings Calendar
 CATEGORIES:美股财报,AMZN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -50,16 +48,15 @@ DESCRIPTION:明天财报：AMZN
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GOOGL-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:GOOGL-2026-04-29-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:🔥 ⏳ 财报｜GOOGL Alphabet｜Cloud / TPU / AI CapEx
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：GOOGL｜Alphabet\n时间：盘后 / After Market Close\n关注重
- 点：Cloud / TPU / AI CapEx\nFiscal period：FY2026 Q1\nEPS estimate：2.
- 7051\nRevenue estimate：$110.41B\n数据源：Finnhub Earnings Calendar A
- PI（日期可能改期）
+SUMMARY:⏳ 财报｜GOOGL｜Cloud / TPU / AI CapEx
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：GOOGL\n期间：FY2026 Q1\n时间：盘后 /
+  After Market Close\n关注重点：Cloud / TPU / AI CapEx\n数据来源
+ ：Finnhub Earnings Calendar
 CATEGORIES:美股财报,GOOGL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -70,16 +67,15 @@ DESCRIPTION:明天财报：GOOGL
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:META-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:META-2026-04-29-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:🔥 ⏳ 财报｜META Meta｜AI CapEx / 数据中心
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：META｜Meta\n时间：盘后 / After Market Close\n关注重点
- ：AI CapEx / 数据中心\nFiscal period：FY2026 Q1\nEPS estimate：6.92
- 3\nRevenue estimate：$56.56B\n数据源：Finnhub Earnings Calendar API
- （日期可能改期）
+SUMMARY:⏳ 财报｜META｜AI CapEx / 数据中心
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：META\n期间：FY2026 Q1\n时间：盘后 / 
+ After Market Close\n关注重点：AI CapEx / 数据中心\n数据来源
+ ：Finnhub Earnings Calendar
 CATEGORIES:美股财报,META
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -90,16 +86,15 @@ DESCRIPTION:明天财报：META
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MSFT-FY2026-Q3@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:MSFT-2026-04-29-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:🔥 ⏳ 财报｜MSFT Microsoft｜Azure / AI CapEx
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：MSFT｜Microsoft\n时间：盘后 / After Market Close\n关注重
- 点：Azure / AI CapEx\nFiscal period：FY2026 Q3\nEPS estimate：4.1432\n
- Revenue estimate：$83.02B\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
+SUMMARY:⏳ 财报｜MSFT｜Azure / AI CapEx
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：MSFT\n期间：FY2026 Q3\n时间：盘后 / 
+ After Market Close\n关注重点：Azure / AI CapEx\n数据来源：Finnhu
+ b Earnings Calendar
 CATEGORIES:美股财报,MSFT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,16 +105,15 @@ DESCRIPTION:明天财报：MSFT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SNDK-FY2026-Q3@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:SNDK-2026-04-30-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:🔥 ⏳ 财报｜SNDK Sandisk｜Data Center Storage
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：SNDK｜Sandisk\n时间：盘后 / After Market Close\n关注重
- 点：Data Center Storage\nFiscal period：FY2026 Q3\nEPS estimate：14.82
- 74\nRevenue estimate：$4.80B\n数据源：Finnhub Earnings Calendar API
- （日期可能改期）
+SUMMARY:⏳ 财报｜SNDK｜Data Center Storage
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：SNDK\n期间：FY2026 Q3\n时间：盘后 / 
+ After Market Close\n关注重点：Data Center Storage\n数据来源：Fin
+ nhub Earnings Calendar
 CATEGORIES:美股财报,SNDK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -130,16 +124,15 @@ DESCRIPTION:明天财报：SNDK
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PLTR-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:PLTR-2026-05-04-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
-SUMMARY:🔥 ⏳ 财报｜PLTR Palantir｜AIP / 政府与商业订单
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：PLTR｜Palantir\n时间：盘后 / After Market Close\n关注重
- 点：AIP / 政府与商业订单\nFiscal period：FY2026 Q1\nEPS estimate
- ：0.2849\nRevenue estimate：$1.57B\n数据源：Finnhub Earnings Calenda
- r API（日期可能改期）
+SUMMARY:⏳ 财报｜PLTR｜AIP / 政府与商业订单
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：PLTR\n期间：FY2026 Q1\n时间：盘后 / 
+ After Market Close\n关注重点：AIP / 政府与商业订单\n数据来
+ 源：Finnhub Earnings Calendar
 CATEGORIES:美股财报,PLTR
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -150,196 +143,15 @@ DESCRIPTION:明天财报：PLTR
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AMD-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:🔥 ⏳ 财报｜AMD AMD｜AI GPU / Data Center
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：AMD｜AMD\n时间：盘后 / After Market Close\n关注重点：A
- I GPU / Data Center\nFiscal period：FY2026 Q1\nEPS estimate：1.3074\nRev
- enue estimate：$9.99B\n数据源：Finnhub Earnings Calendar API（日期
- 可能改期）
-CATEGORIES:美股财报,AMD
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：AMD
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ANET-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:🔥 ⏳ 财报｜ANET Arista｜AI Networking
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：ANET｜Arista\n时间：盘后 / After Market Close\n关注重点
- ：AI Networking\nFiscal period：FY2026 Q1\nEPS estimate：0.8224\nRevenu
- e estimate：$2.66B\n数据源：Finnhub Earnings Calendar API（日期可
- 能改期）
-CATEGORIES:美股财报,ANET
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：ANET
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:LEU-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:🟠 ⏳ 财报｜LEU Centrus｜HALEU / Nuclear Fuel
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：LEU｜Centrus\n时间：盘后 / After Market Close\n关注重点
- ：HALEU / Nuclear Fuel\nFiscal period：FY2026 Q1\nEPS estimate：0.5572\
- nRevenue estimate：$80.31M\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
-CATEGORIES:美股财报,LEU
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：LEU
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:CRWV-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:🔥 ⏳ 财报｜CRWV CoreWeave｜AI Cloud / Backlog / Debt
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：CRWV｜CoreWeave\n时间：盘后 / After Market Close\n关注重
- 点：AI Cloud / Backlog / Debt\nFiscal period：FY2026 Q1\nEPS estimate
- ：-0.9157\nRevenue estimate：$2.00B\n数据源：Finnhub Earnings Calend
- ar API（日期可能改期）
-CATEGORIES:美股财报,CRWV
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：CRWV
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:RKLB-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:🔥 ⏳ 财报｜RKLB Rocket Lab｜Launch / Neutron / Backlog
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：RKLB｜Rocket Lab\n时间：盘后 / After Market Close\n关注
- 重点：Launch / Neutron / Backlog\nFiscal period：FY2026 Q1\nEPS estima
- te：-0.0815\nRevenue estimate：$193.48M\n数据源：Finnhub Earnings Ca
- lendar API（日期可能改期）
-CATEGORIES:美股财报,RKLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：RKLB
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:VST-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:🔥 ⏳ 财报｜VST Vistra｜Power / Data Center Demand
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：VST｜Vistra\n时间：盘前 / Before Market Open\n关注重点
- ：Power / Data Center Demand\nFiscal period：FY2026 Q1\nEPS estimate：1
- .3526\nRevenue estimate：$5.71B\n数据源：Finnhub Earnings Calendar AP
- I（日期可能改期）
-CATEGORIES:美股财报,VST
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：VST
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ASTS-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:🔥 ⏳ 财报｜ASTS AST SpaceMobile｜Satellites / Deployment
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：ASTS｜AST SpaceMobile\n时间：盘后 / After Market Close\n关
- 注重点：Satellites / Deployment\nFiscal period：FY2026 Q1\nEPS estima
- te：-0.2288\nRevenue estimate：$38.39M\n数据源：Finnhub Earnings Cal
- endar API（日期可能改期）
-CATEGORIES:美股财报,ASTS
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：ASTS
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:CEG-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:🔥 ⏳ 财报｜CEG Constellation｜Nuclear / Data Center Power
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：CEG｜Constellation\n时间：盘前 / Before Market Open\n关注
- 重点：Nuclear / Data Center Power\nFiscal period：FY2026 Q1\nEPS estim
- ate：2.5928\nRevenue estimate：$8.81B\n数据源：Finnhub Earnings Cale
- ndar API（日期可能改期）
-CATEGORIES:美股财报,CEG
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：CEG
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:OKLO-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:🟠 ⏳ 财报｜OKLO Oklo｜Advanced Nuclear / Regulatory
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：OKLO｜Oklo\n时间：盘后 / After Market Close\n关注重点
- ：Advanced Nuclear / Regulatory\nFiscal period：FY2026 Q1\nEPS estimate
- ：-0.1966\nRevenue estimate：0\n数据源：Finnhub Earnings Calendar AP
- I（日期可能改期）
-CATEGORIES:美股财报,OKLO
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：OKLO
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:LUNR-FY2026-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:LUNR-2026-05-14-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-SUMMARY:🔥 ⏳ 财报｜LUNR Intuitive Machines｜Moon / NASA Contracts
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：LUNR｜Intuitive Machines\n时间：盘前 / Before Market Open\n
- 关注重点：Moon / NASA Contracts\nFiscal period：FY2026 Q1\nEPS estim
- ate：-0.0752\nRevenue estimate：$206.74M\n数据源：Finnhub Earnings C
- alendar API（日期可能改期）
+SUMMARY:⏳ 财报｜LUNR｜Moon / NASA Contracts
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：LUNR\n期间：FY2026 Q1\n时间：盘前 / 
+ Before Market Open\n关注重点：Moon / NASA Contracts\n数据来源：F
+ innhub Earnings Calendar
 CATEGORIES:美股财报,LUNR
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -350,16 +162,15 @@ DESCRIPTION:明天财报：LUNR
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NVDA-FY2027-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:NVDA-2026-05-20-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-SUMMARY:🔥 ⏳ 财报｜NVDA NVIDIA｜AI GPU / Data Center
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：NVDA｜NVIDIA\n时间：盘后 / After Market Close\n关注重点
- ：AI GPU / Data Center\nFiscal period：FY2027 Q1\nEPS estimate：1.7922\
- nRevenue estimate：$80.43B\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
+SUMMARY:⏳ 财报｜NVDA｜AI GPU / Data Center
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：NVDA\n期间：FY2027 Q1\n时间：盘后 / 
+ After Market Close\n关注重点：AI GPU / Data Center\n数据来源：Fi
+ nnhub Earnings Calendar
 CATEGORIES:美股财报,NVDA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -370,16 +181,15 @@ DESCRIPTION:明天财报：NVDA
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SNOW-FY2027-Q1@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:SNOW-2026-05-27-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:🔥 ⏳ 财报｜SNOW Snowflake｜AI Data Cloud
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：SNOW｜Snowflake\n时间：盘后 / After Market Close\n关注重
- 点：AI Data Cloud\nFiscal period：FY2027 Q1\nEPS estimate：0.3246\nRev
- enue estimate：$1.35B\n数据源：Finnhub Earnings Calendar API（日期
- 可能改期）
+SUMMARY:⏳ 财报｜SNOW｜AI Data Cloud
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：SNOW\n期间：FY2027 Q1\n时间：盘后 / 
+ After Market Close\n关注重点：AI Data Cloud\n数据来源：Finnhub E
+ arnings Calendar
 CATEGORIES:美股财报,SNOW
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -390,16 +200,15 @@ DESCRIPTION:明天财报：SNOW
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AVGO-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:AVGO-2026-06-03-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:🔥 ⏳ 财报｜AVGO Broadcom｜ASIC / AI Networking
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：AVGO｜Broadcom\n时间：盘后 / After Market Close\n关注重
- 点：ASIC / AI Networking\nFiscal period：FY2026 Q2\nEPS estimate：2.46
- 45\nRevenue estimate：$22.91B\n数据源：Finnhub Earnings Calendar API
- （日期可能改期）
+SUMMARY:⏳ 财报｜AVGO｜ASIC / AI Networking
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：AVGO\n期间：FY2026 Q2\n时间：盘后 / 
+ After Market Close\n关注重点：ASIC / AI Networking\n数据来源：Fi
+ nnhub Earnings Calendar
 CATEGORIES:美股财报,AVGO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -410,16 +219,15 @@ DESCRIPTION:明天财报：AVGO
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ORCL-FY2026-Q4@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:ORCL-2026-06-16-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-SUMMARY:🔥 ⏳ 财报｜ORCL Oracle｜Cloud / RPO / AI 数据中心
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：ORCL｜Oracle\n时间：盘后 / After Market Close\n关注重点
- ：Cloud / RPO / AI 数据中心\nFiscal period：FY2026 Q4\nEPS estimate
- ：1.9985\nRevenue estimate：$19.48B\n数据源：Finnhub Earnings Calend
- ar API（日期可能改期）
+SUMMARY:⏳ 财报｜ORCL｜Cloud / RPO / AI 数据中心
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：ORCL\n期间：FY2026 Q4\n时间：盘后 / 
+ After Market Close\n关注重点：Cloud / RPO / AI 数据中心\n数据
+ 来源：Finnhub Earnings Calendar
 CATEGORIES:美股财报,ORCL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -430,16 +238,15 @@ DESCRIPTION:明天财报：ORCL
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MU-FY2026-Q3@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:MU-2026-06-23-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:🔥 ⏳ 财报｜MU Micron｜HBM / Memory
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：MU｜Micron\n时间：盘后 / After Market Close\n关注重点
- ：HBM / Memory\nFiscal period：FY2026 Q3\nEPS estimate：19.8992\nRevenu
- e estimate：$34.89B\n数据源：Finnhub Earnings Calendar API（日期
- 可能改期）
+SUMMARY:⏳ 财报｜MU｜HBM / Memory
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：MU\n期间：FY2026 Q3\n时间：盘后 / Af
+ ter Market Close\n关注重点：HBM / Memory\n数据来源：Finnhub Earn
+ ings Calendar
 CATEGORIES:美股财报,MU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -450,196 +257,15 @@ DESCRIPTION:明天财报：MU
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LMT-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:🟠 ⏳ 财报｜LMT Lockheed Martin｜Missile Defense
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：LMT｜Lockheed Martin\n时间：盘前 / Before Market Open\n关
- 注重点：Missile Defense\nFiscal period：FY2026 Q2\nEPS estimate：7.1
- 614\nRevenue estimate：$19.54B\n数据源：Finnhub Earnings Calendar API
- （日期可能改期）
-CATEGORIES:美股财报,LMT
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：LMT
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:RTX-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:🟠 ⏳ 财报｜RTX RTX｜Missile Defense / Aerospace
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：RTX｜RTX\n时间：盘前 / Before Market Open\n关注重点：M
- issile Defense / Aerospace\nFiscal period：FY2026 Q2\nEPS estimate：1.67
- 09\nRevenue estimate：$23.08B\n数据源：Finnhub Earnings Calendar API
- （日期可能改期）
-CATEGORIES:美股财报,RTX
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：RTX
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:GOOGL-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:🔥 ⏳ 财报｜GOOGL Alphabet｜Cloud / TPU / AI CapEx
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：GOOGL｜Alphabet\n时间：盘后 / After Market Close\n关注重
- 点：Cloud / TPU / AI CapEx\nFiscal period：FY2026 Q2\nEPS estimate：2.
- 9567\nRevenue estimate：$120.17B\n数据源：Finnhub Earnings Calendar A
- PI（日期可能改期）
-CATEGORIES:美股财报,GOOGL
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：GOOGL
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:TSLA-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:🔥 ⏳ 财报｜TSLA Tesla｜AI / Robotaxi / Auto
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：TSLA｜Tesla\n时间：盘后 / After Market Close\n关注重点
- ：AI / Robotaxi / Auto\nFiscal period：FY2026 Q2\nEPS estimate：0.4521\
- nRevenue estimate：$24.74B\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
-CATEGORIES:美股财报,TSLA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：TSLA
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:GLW-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260728
-SUMMARY:🟠 ⏳ 财报｜GLW Corning｜Optical Connectivity
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：GLW｜Corning\n时间：盘前 / Before Market Open\n关注重点
- ：Optical Connectivity\nFiscal period：FY2026 Q2\nEPS estimate：0.7648\
- nRevenue estimate：$4.69B\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
-CATEGORIES:美股财报,GLW
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：GLW
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:META-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-SUMMARY:🔥 ⏳ 财报｜META Meta｜AI CapEx / 数据中心
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：META｜Meta\n时间：盘后 / After Market Close\n关注重点
- ：AI CapEx / 数据中心\nFiscal period：FY2026 Q2\nEPS estimate：7.30
- 12\nRevenue estimate：$61.32B\n数据源：Finnhub Earnings Calendar API
- （日期可能改期）
-CATEGORIES:美股财报,META
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：META
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:MSFT-FY2026-Q4@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-SUMMARY:🔥 ⏳ 财报｜MSFT Microsoft｜Azure / AI CapEx
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：MSFT｜Microsoft\n时间：盘后 / After Market Close\n关注重
- 点：Azure / AI CapEx\nFiscal period：FY2026 Q4\nEPS estimate：4.3275\n
- Revenue estimate：$89.37B\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
-CATEGORIES:美股财报,MSFT
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：MSFT
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:VRT-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-SUMMARY:🔥 ⏳ 财报｜VRT Vertiv｜Power / Cooling
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：VRT｜Vertiv\n时间：时间待公布\n关注重点：Power / Co
- oling\nFiscal period：FY2026 Q2\nEPS estimate：1.436\nRevenue estimate
- ：$3.41B\n数据源：Finnhub Earnings Calendar API（日期可能改期
- ）
-CATEGORIES:美股财报,VRT
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：VRT
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:AMZN-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260730
-SUMMARY:🔥 ⏳ 财报｜AMZN Amazon｜AWS / AI CapEx
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：AMZN｜Amazon\n时间：盘后 / After Market Close\n关注重点
- ：AWS / AI CapEx\nFiscal period：FY2026 Q2\nEPS estimate：1.8526\nReven
- ue estimate：$200.20B\n数据源：Finnhub Earnings Calendar API（日期
- 可能改期）
-CATEGORIES:美股财报,AMZN
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：AMZN
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:AMD-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:AMD-2026-08-03-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:🔥 ⏳ 财报｜AMD AMD｜AI GPU / Data Center
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：AMD｜AMD\n时间：盘后 / After Market Close\n关注重点：A
- I GPU / Data Center\nFiscal period：FY2026 Q2\nEPS estimate：1.6211\nRev
- enue estimate：$11.36B\n数据源：Finnhub Earnings Calendar API（日
- 期可能改期）
+SUMMARY:⏳ 财报｜AMD｜AI GPU / Data Center
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：AMD\n期间：FY2026 Q2\n时间：盘后 / A
+ fter Market Close\n关注重点：AI GPU / Data Center\n数据来源：Fin
+ nhub Earnings Calendar
 CATEGORIES:美股财报,AMD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -650,16 +276,15 @@ DESCRIPTION:明天财报：AMD
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ANET-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:ANET-2026-08-03-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:🔥 ⏳ 财报｜ANET Arista｜AI Networking
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：ANET｜Arista\n时间：盘后 / After Market Close\n关注重点
- ：AI Networking\nFiscal period：FY2026 Q2\nEPS estimate：0.9006\nRevenu
- e estimate：$2.86B\n数据源：Finnhub Earnings Calendar API（日期可
- 能改期）
+SUMMARY:⏳ 财报｜ANET｜AI Networking
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：ANET\n期间：FY2026 Q2\n时间：盘后 / 
+ After Market Close\n关注重点：AI Networking\n数据来源：Finnhub E
+ arnings Calendar
 CATEGORIES:美股财报,ANET
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -670,16 +295,15 @@ DESCRIPTION:明天财报：ANET
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LEU-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:LEU-2026-08-03-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:🟠 ⏳ 财报｜LEU Centrus｜HALEU / Nuclear Fuel
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：LEU｜Centrus\n时间：时间待公布\n关注重点：HALEU / N
- uclear Fuel\nFiscal period：FY2026 Q2\nEPS estimate：1.0071\nRevenue est
- imate：$142.44M\n数据源：Finnhub Earnings Calendar API（日期可能
- 改期）
+SUMMARY:⏳ 财报｜LEU｜HALEU / Nuclear Fuel
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：LEU\n期间：FY2026 Q2\n时间：时间待
+ 公布\n关注重点：HALEU / Nuclear Fuel\n数据来源：Finnhub Earnin
+ gs Calendar
 CATEGORIES:美股财报,LEU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -690,16 +314,15 @@ DESCRIPTION:明天财报：LEU
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PLTR-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:PLTR-2026-08-03-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:🔥 ⏳ 财报｜PLTR Palantir｜AIP / 政府与商业订单
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：PLTR｜Palantir\n时间：时间待公布\n关注重点：AIP / 
- 政府与商业订单\nFiscal period：FY2026 Q2\nEPS estimate：0.3518\nR
- evenue estimate：$1.83B\n数据源：Finnhub Earnings Calendar API（日
- 期可能改期）
+SUMMARY:⏳ 财报｜PLTR｜AIP / 政府与商业订单
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：PLTR\n期间：FY2026 Q2\n时间：时间待
+ 公布\n关注重点：AIP / 政府与商业订单\n数据来源：Finnhub
+  Earnings Calendar
 CATEGORIES:美股财报,PLTR
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -710,16 +333,15 @@ DESCRIPTION:明天财报：PLTR
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CEG-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:CEG-2026-08-04-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-SUMMARY:🔥 ⏳ 财报｜CEG Constellation｜Nuclear / Data Center Power
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：CEG｜Constellation\n时间：时间待公布\n关注重点：Nuc
- lear / Data Center Power\nFiscal period：FY2026 Q2\nEPS estimate：2.4747
- \nRevenue estimate：$7.94B\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
+SUMMARY:⏳ 财报｜CEG｜Nuclear / Data Center Power
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：CEG\n期间：FY2026 Q2\n时间：时间待
+ 公布\n关注重点：Nuclear / Data Center Power\n数据来源：Finnhub
+  Earnings Calendar
 CATEGORIES:美股财报,CEG
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -730,16 +352,15 @@ DESCRIPTION:明天财报：CEG
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VST-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:VST-2026-08-05-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-SUMMARY:🔥 ⏳ 财报｜VST Vistra｜Power / Data Center Demand
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：VST｜Vistra\n时间：时间待公布\n关注重点：Power / Da
- ta Center Demand\nFiscal period：FY2026 Q2\nEPS estimate：2.0872\nRevenu
- e estimate：$6.13B\n数据源：Finnhub Earnings Calendar API（日期可
- 能改期）
+SUMMARY:⏳ 财报｜VST｜Power / Data Center Demand
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：VST\n期间：FY2026 Q2\n时间：时间待
+ 公布\n关注重点：Power / Data Center Demand\n数据来源：Finnhub 
+ Earnings Calendar
 CATEGORIES:美股财报,VST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -750,16 +371,15 @@ DESCRIPTION:明天财报：VST
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ASTS-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:ASTS-2026-08-10-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:🔥 ⏳ 财报｜ASTS AST SpaceMobile｜Satellites / Deployment
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：ASTS｜AST SpaceMobile\n时间：时间待公布\n关注重点：
- Satellites / Deployment\nFiscal period：FY2026 Q2\nEPS estimate：-0.2856
- \nRevenue estimate：$35.88M\n数据源：Finnhub Earnings Calendar API（
- 日期可能改期）
+SUMMARY:⏳ 财报｜ASTS｜Satellites / Deployment
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：ASTS\n期间：FY2026 Q2\n时间：时间待
+ 公布\n关注重点：Satellites / Deployment\n数据来源：Finnhub Ear
+ nings Calendar
 CATEGORIES:美股财报,ASTS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -770,16 +390,15 @@ DESCRIPTION:明天财报：ASTS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OKLO-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:OKLO-2026-08-10-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:🟠 ⏳ 财报｜OKLO Oklo｜Advanced Nuclear / Regulatory
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：OKLO｜Oklo\n时间：时间待公布\n关注重点：Advanced Nu
- clear / Regulatory\nFiscal period：FY2026 Q2\nEPS estimate：-0.1999\nRev
- enue estimate：0\n数据源：Finnhub Earnings Calendar API（日期可
- 能改期）
+SUMMARY:⏳ 财报｜OKLO｜Advanced Nuclear / Regulatory
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：OKLO\n期间：FY2026 Q2\n时间：时间待
+ 公布\n关注重点：Advanced Nuclear / Regulatory\n数据来源：Finnh
+ ub Earnings Calendar
 CATEGORIES:美股财报,OKLO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -790,16 +409,15 @@ DESCRIPTION:明天财报：OKLO
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SNDK-FY2026-Q4@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:SNDK-2026-08-12-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:🔥 ⏳ 财报｜SNDK Sandisk｜Data Center Storage
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：SNDK｜Sandisk\n时间：时间待公布\n关注重点：Data Cen
- ter Storage\nFiscal period：FY2026 Q4\nEPS estimate：33.8951\nRevenue es
- timate：$8.26B\n数据源：Finnhub Earnings Calendar API（日期可能
- 改期）
+SUMMARY:⏳ 财报｜SNDK｜Data Center Storage
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：SNDK\n期间：FY2026 Q4\n时间：时间待
+ 公布\n关注重点：Data Center Storage\n数据来源：Finnhub Earning
+ s Calendar
 CATEGORIES:美股财报,SNDK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -810,16 +428,15 @@ DESCRIPTION:明天财报：SNDK
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CRWV-FY2026-Q2@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
+UID:CRWV-2026-08-13-earnings@chloe-calendar
+DTSTAMP:20260526T160426Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-SUMMARY:🔥 ⏳ 财报｜CRWV CoreWeave｜AI Cloud / Backlog / Debt
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：CRWV｜CoreWeave\n时间：时间待公布\n关注重点：AI Clo
- ud / Backlog / Debt\nFiscal period：FY2026 Q2\nEPS estimate：-1.0554\nRe
- venue estimate：$2.62B\n数据源：Finnhub Earnings Calendar API（日
- 期可能改期）
+SUMMARY:⏳ 财报｜CRWV｜AI Cloud / Backlog / Debt
+DESCRIPTION:状态：⏳ 数据源财报日程，持仓跨财报前请核
+ 对公司 IR 官网\n股票：CRWV\n期间：FY2026 Q2\n时间：时间待
+ 公布\n关注重点：AI Cloud / Backlog / Debt\n数据来源：Finnhub E
+ arnings Calendar
 CATEGORIES:美股财报,CRWV
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -827,26 +444,6 @@ BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:明天财报：CRWV
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:RTX-FY2026-Q3@chloe-earnings-calendar
-DTSTAMP:20260526T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:🟠 ⏳ 财报｜RTX RTX｜Missile Defense / Aerospace
-DESCRIPTION:状态：数据源预告｜请在交易前以公司 IR 为准\n
- 股票：RTX｜RTX\n时间：盘前 / Before Market Open\n关注重点：M
- issile Defense / Aerospace\nFiscal period：FY2026 Q3\nEPS estimate：1.74
- 18\nRevenue estimate：$24.00B\n数据源：Finnhub Earnings Calendar API
- （日期可能改期）
-CATEGORIES:美股财报,RTX
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:明天财报：RTX
 END:VALARM
 END:VEVENT
 END:VCALENDAR
