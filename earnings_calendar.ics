@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chloe Earnings Radar Auto//ChatGPT//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 美股财报雷达｜26只核心观察股｜自动更新
+X-WR-CALDESC:首次上传自带已确认事件；运行 GitHub Action 后
+ 由 Finnhub 自动更新未来日期。
+X-APPLE-CALENDAR-COLOR:#E45756
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:SNOW-2026-05-27@chloe-earnings-calendar
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:🔥 ✅ 财报｜SNOW Snowflake｜AI Data Cloud
+DESCRIPTION:状态：官网确认\\n股票：SNOW｜Snowflake\\n时间：
+ 盘后发布\\n官方来源：https://investors.snowflake.com/events-and-p
+ resentations/event-details/2026/Snowflake-Q1-FY27-Earnings/default.aspx
+CATEGORIES:美股财报,SNOW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:明天财报：SNOW
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:AVGO-2026-06-03@chloe-earnings-calendar
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:🔥 ✅ 财报｜AVGO Broadcom｜ASIC / AI Networking
+DESCRIPTION:状态：官网确认\\n股票：AVGO｜Broadcom\\n时间：盘
+ 后发布；5:00 PM ET 电话会\\n官方来源：https://investors.broadc
+ om.com/news-releases/news-release-details/broadcom-inc-announce-second-qua
+ rter-fiscal-year-2026-financial
+CATEGORIES:美股财报,AVGO
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:明天财报：AVGO
+END:VALARM
+END:VEVENT
+END:VCALENDAR
