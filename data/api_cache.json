@@ -154,6 +154,17 @@
     "year": 2026
   },
   {
+    "date": "2026-08-05",
+    "epsEstimate": -0.0771,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 236429370,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "RKLB",
+    "theme": "Launch / Neutron / Backlog",
+    "year": 2026
+  },
+  {
     "date": "2026-08-04",
     "epsEstimate": 2.4747,
     "hour": "",
@@ -207,6 +218,28 @@
     "symbol": "AMD",
     "theme": "AI GPU / Data Center",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "epsEstimate": 2.1196,
+    "hour": "amc",
+    "quarter": 2,
+    "revenueEstimate": 93183054750,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "NVDA",
+    "theme": "AI GPU / Data Center",
+    "year": 2027
+  },
+  {
+    "date": "2026-08-25",
+    "epsEstimate": 0.428,
+    "hour": "amc",
+    "quarter": 2,
+    "revenueEstimate": 1463323915,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "SNOW",
+    "theme": "AI Data Cloud",
+    "year": 2027
   },
   {
     "date": "2026-08-13",
