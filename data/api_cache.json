@@ -66,17 +66,6 @@
     "year": 2026
   },
   {
-    "date": "2026-04-28",
-    "epsEstimate": 0.6968,
-    "hour": "bmo",
-    "quarter": 1,
-    "revenueEstimate": 4305870107,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "GLW",
-    "theme": "Optical Connectivity",
-    "year": 2026
-  },
-  {
     "date": "2026-06-03",
     "epsEstimate": 2.4645,
     "hour": "amc",
@@ -121,7 +110,7 @@
     "year": 2026
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "epsEstimate": 19.8992,
     "hour": "amc",
     "quarter": 3,
