@@ -22,50 +22,6 @@
     "year": 2026
   },
   {
-    "date": "2026-04-29",
-    "epsEstimate": 2.7051,
-    "hour": "amc",
-    "quarter": 1,
-    "revenueEstimate": 110412934544,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "GOOGL",
-    "theme": "Cloud / TPU / AI CapEx",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-29",
-    "epsEstimate": 6.923,
-    "hour": "amc",
-    "quarter": 1,
-    "revenueEstimate": 56557892025,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "META",
-    "theme": "AI CapEx / 数据中心",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-29",
-    "epsEstimate": 1.6703,
-    "hour": "amc",
-    "quarter": 1,
-    "revenueEstimate": 180846374890,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "AMZN",
-    "theme": "AWS / AI CapEx",
-    "year": 2026
-  },
-  {
-    "date": "2026-04-29",
-    "epsEstimate": 4.1432,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 83020433323,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "MSFT",
-    "theme": "Azure / AI CapEx",
-    "year": 2026
-  },
-  {
     "date": "2026-06-03",
     "epsEstimate": 2.4645,
     "hour": "amc",
