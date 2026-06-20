@@ -22,17 +22,6 @@
     "year": 2027
   },
   {
-    "date": "2026-05-20",
-    "epsEstimate": 1.7922,
-    "hour": "amc",
-    "quarter": 1,
-    "revenueEstimate": 80432094512,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "NVDA",
-    "theme": "AI GPU / Data Center",
-    "year": 2027
-  },
-  {
     "date": "2026-06-24",
     "epsEstimate": 20.6923,
     "hour": "amc",
