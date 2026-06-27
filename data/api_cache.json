@@ -11,17 +11,6 @@
     "year": 2026
   },
   {
-    "date": "2026-05-27",
-    "epsEstimate": 0.3246,
-    "hour": "amc",
-    "quarter": 1,
-    "revenueEstimate": 1350392708,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "SNOW",
-    "theme": "AI Data Cloud",
-    "year": 2027
-  },
-  {
     "date": "2026-06-24",
     "epsEstimate": 21.4019,
     "hour": "amc",
