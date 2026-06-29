@@ -55,17 +55,6 @@
     "year": 2026
   },
   {
-    "date": "2026-08-04",
-    "epsEstimate": 2.529,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 8426287731,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "CEG",
-    "theme": "Nuclear / Data Center Power",
-    "year": 2026
-  },
-  {
     "date": "2026-08-03",
     "epsEstimate": 1.621,
     "hour": "amc",
@@ -107,6 +96,28 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "PLTR",
     "theme": "AIP / 政府与商业订单",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "epsEstimate": 1.851,
+    "hour": "amc",
+    "quarter": 2,
+    "revenueEstimate": 200171659612,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "AMZN",
+    "theme": "AWS / AI CapEx",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "epsEstimate": 2.529,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 8426287731,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "CEG",
+    "theme": "Nuclear / Data Center Power",
     "year": 2026
   },
   {
@@ -173,6 +184,17 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "ASTS",
     "theme": "Satellites / Deployment",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "epsEstimate": -0.1659,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 147175,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "OKLO",
+    "theme": "Advanced Nuclear / Regulatory",
     "year": 2026
   },
   {
