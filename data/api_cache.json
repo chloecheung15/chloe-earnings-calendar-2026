@@ -99,17 +99,6 @@
     "year": 2026
   },
   {
-    "date": "2026-07-30",
-    "epsEstimate": 2.4027,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 8217250667,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "CEG",
-    "theme": "Nuclear / Data Center Power",
-    "year": 2026
-  },
-  {
     "date": "2026-09-02",
     "epsEstimate": 3.3014,
     "hour": "amc",
