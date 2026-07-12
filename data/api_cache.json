@@ -23,6 +23,17 @@
   },
   {
     "date": "2026-08-05",
+    "epsEstimate": 34.2874,
+    "hour": "",
+    "quarter": 4,
+    "revenueEstimate": 8374372380,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "SNDK",
+    "theme": "Data Center Storage",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
     "epsEstimate": 1.4387,
     "hour": "",
     "quarter": 2,
@@ -129,17 +140,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "CRWV",
     "theme": "AI Cloud / Backlog / Debt",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-12",
-    "epsEstimate": 34.2874,
-    "hour": "",
-    "quarter": 4,
-    "revenueEstimate": 8374372380,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "SNDK",
-    "theme": "Data Center Storage",
     "year": 2026
   },
   {
