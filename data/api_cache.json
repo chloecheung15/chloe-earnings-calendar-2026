@@ -66,28 +66,6 @@
     "year": 2026
   },
   {
-    "date": "2026-08-03",
-    "epsEstimate": 0.964,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 148071807,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "LEU",
-    "theme": "HALEU / Nuclear Fuel",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-03",
-    "epsEstimate": 0.354,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 1839732261,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "PLTR",
-    "theme": "AIP / 政府与商业订单",
-    "year": 2026
-  },
-  {
     "date": "2026-07-30",
     "epsEstimate": 1.8519,
     "hour": "amc",
@@ -96,6 +74,28 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "AMZN",
     "theme": "AWS / AI CapEx",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "epsEstimate": 7.3228,
+    "hour": "amc",
+    "quarter": 2,
+    "revenueEstimate": 61331816283,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "META",
+    "theme": "AI CapEx / 数据中心",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "epsEstimate": 4.3265,
+    "hour": "amc",
+    "quarter": 4,
+    "revenueEstimate": 89370759268,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "MSFT",
+    "theme": "Azure / AI CapEx",
     "year": 2026
   },
   {
@@ -143,25 +143,14 @@
     "year": 2026
   },
   {
-    "date": "2026-08-10",
-    "epsEstimate": -0.2914,
+    "date": "2026-08-11",
+    "epsEstimate": 0.964,
     "hour": "",
     "quarter": 2,
-    "revenueEstimate": 35878500,
+    "revenueEstimate": 148071807,
     "source": "Finnhub Earnings Calendar",
-    "symbol": "ASTS",
-    "theme": "Satellites / Deployment",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-10",
-    "epsEstimate": -0.1673,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 128775,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "OKLO",
-    "theme": "Advanced Nuclear / Regulatory",
+    "symbol": "LEU",
+    "theme": "HALEU / Nuclear Fuel",
     "year": 2026
   },
   {
