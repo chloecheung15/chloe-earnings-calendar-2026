@@ -67,13 +67,35 @@
   },
   {
     "date": "2026-07-30",
-    "epsEstimate": 1.8532,
+    "epsEstimate": 1.8556,
     "hour": "amc",
     "quarter": 2,
-    "revenueEstimate": 200287124336,
+    "revenueEstimate": 200308047341,
     "source": "Finnhub Earnings Calendar",
     "symbol": "AMZN",
     "theme": "AWS / AI CapEx",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "epsEstimate": 7.3817,
+    "hour": "amc",
+    "quarter": 2,
+    "revenueEstimate": 61376242168,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "META",
+    "theme": "AI CapEx / 数据中心",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "epsEstimate": 4.3277,
+    "hour": "amc",
+    "quarter": 4,
+    "revenueEstimate": 89378725509,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "MSFT",
+    "theme": "Azure / AI CapEx",
     "year": 2026
   },
   {
