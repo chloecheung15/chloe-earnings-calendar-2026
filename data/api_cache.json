@@ -110,7 +110,7 @@
     "year": 2027
   },
   {
-    "date": "2026-08-13",
+    "date": "2026-08-18",
     "epsEstimate": -1.1344,
     "hour": "",
     "quarter": 2,
@@ -118,6 +118,39 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "CRWV",
     "theme": "AI Cloud / Backlog / Debt",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "epsEstimate": -0.102,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 220654335,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "LUNR",
+    "theme": "Moon / NASA Contracts",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "epsEstimate": -0.1586,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 128775,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "OKLO",
+    "theme": "Advanced Nuclear / Regulatory",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "epsEstimate": -0.2637,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 35107828,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "ASTS",
+    "theme": "Satellites / Deployment",
     "year": 2026
   },
   {
@@ -129,17 +162,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "LEU",
     "theme": "HALEU / Nuclear Fuel",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-10",
-    "epsEstimate": -0.2637,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 35107828,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "ASTS",
-    "theme": "Satellites / Deployment",
     "year": 2026
   },
   {
@@ -163,5 +185,27 @@
     "symbol": "ORCL",
     "theme": "Cloud / RPO / AI 数据中心",
     "year": 2027
+  },
+  {
+    "date": "2026-10-19",
+    "epsEstimate": 7.5534,
+    "hour": "bmo",
+    "quarter": 3,
+    "revenueEstimate": 20031672864,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "LMT",
+    "theme": "Missile Defense",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "epsEstimate": 1.7429,
+    "hour": "bmo",
+    "quarter": 3,
+    "revenueEstimate": 23992000438,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "RTX",
+    "theme": "Missile Defense / Aerospace",
+    "year": 2026
   }
 ]
