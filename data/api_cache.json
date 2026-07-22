@@ -187,6 +187,28 @@
     "year": 2027
   },
   {
+    "date": "2026-10-20",
+    "epsEstimate": 0.5111,
+    "hour": "amc",
+    "quarter": 3,
+    "revenueEstimate": 26980080404,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "TSLA",
+    "theme": "AI / Robotaxi / Auto",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "epsEstimate": 1.8091,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 3748992315,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "VRT",
+    "theme": "Power / Cooling",
+    "year": 2026
+  },
+  {
     "date": "2026-10-19",
     "epsEstimate": 7.5534,
     "hour": "bmo",
