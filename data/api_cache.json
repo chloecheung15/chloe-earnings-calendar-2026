@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-24",
-    "epsEstimate": 21.4019,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 36923508824,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "MU",
-    "theme": "HBM / Memory",
-    "year": 2026
-  },
-  {
     "date": "2026-08-05",
     "epsEstimate": -0.0765,
     "hour": "",
