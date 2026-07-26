@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-08-05",
+    "epsEstimate": 0.9211,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 148762819,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "LEU",
+    "theme": "HALEU / Nuclear Fuel",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
     "epsEstimate": -0.0765,
     "hour": "",
     "quarter": 2,
@@ -140,17 +151,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "ASTS",
     "theme": "Satellites / Deployment",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-11",
-    "epsEstimate": 0.9211,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 148762819,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "LEU",
-    "theme": "HALEU / Nuclear Fuel",
     "year": 2026
   },
   {
