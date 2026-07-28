@@ -46,7 +46,7 @@
   {
     "date": "2026-08-03",
     "epsEstimate": 0.3544,
-    "hour": "",
+    "hour": "amc",
     "quarter": 2,
     "revenueEstimate": 1840805587,
     "source": "Finnhub Earnings Calendar",
@@ -152,6 +152,17 @@
     "symbol": "ORCL",
     "theme": "Cloud / RPO / AI 数据中心",
     "year": 2027
+  },
+  {
+    "date": "2026-10-26",
+    "epsEstimate": 0.8555,
+    "hour": "bmo",
+    "quarter": 3,
+    "revenueEstimate": 5037694382,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "GLW",
+    "theme": "Optical Connectivity",
+    "year": 2026
   },
   {
     "date": "2026-10-20",
