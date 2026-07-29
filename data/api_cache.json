@@ -88,7 +88,7 @@
     "year": 2027
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "epsEstimate": 0.455,
     "hour": "amc",
     "quarter": 2,
@@ -110,18 +110,7 @@
     "year": 2026
   },
   {
-    "date": "2026-08-13",
-    "epsEstimate": -1.1903,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 2613443245,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "CRWV",
-    "theme": "AI Cloud / Backlog / Debt",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-10",
+    "date": "2026-08-17",
     "epsEstimate": -0.2856,
     "hour": "",
     "quarter": 2,
@@ -129,6 +118,17 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "ASTS",
     "theme": "Satellites / Deployment",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "epsEstimate": -1.1903,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 2613443245,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "CRWV",
+    "theme": "AI Cloud / Backlog / Debt",
     "year": 2026
   },
   {
@@ -151,6 +151,39 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "ORCL",
     "theme": "Cloud / RPO / AI 数据中心",
+    "year": 2027
+  },
+  {
+    "date": "2026-10-27",
+    "epsEstimate": 3.0988,
+    "hour": "amc",
+    "quarter": 3,
+    "revenueEstimate": 130756122172,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "GOOGL",
+    "theme": "Cloud / TPU / AI CapEx",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "epsEstimate": 7.1724,
+    "hour": "amc",
+    "quarter": 3,
+    "revenueEstimate": 64406561127,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "META",
+    "theme": "AI CapEx / 数据中心",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "epsEstimate": 4.7278,
+    "hour": "",
+    "quarter": 1,
+    "revenueEstimate": 91452019309,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "MSFT",
+    "theme": "Azure / AI CapEx",
     "year": 2027
   },
   {
