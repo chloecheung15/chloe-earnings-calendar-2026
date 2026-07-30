@@ -2,7 +2,7 @@
   {
     "date": "2026-08-05",
     "epsEstimate": 0.8848,
-    "hour": "",
+    "hour": "amc",
     "quarter": 2,
     "revenueEstimate": 149926925,
     "source": "Finnhub Earnings Calendar",
@@ -13,7 +13,7 @@
   {
     "date": "2026-08-05",
     "epsEstimate": 35.1395,
-    "hour": "",
+    "hour": "amc",
     "quarter": 4,
     "revenueEstimate": 8561788200,
     "source": "Finnhub Earnings Calendar",
@@ -110,17 +110,6 @@
     "year": 2026
   },
   {
-    "date": "2026-08-17",
-    "epsEstimate": -0.2856,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 35677050,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "ASTS",
-    "theme": "Satellites / Deployment",
-    "year": 2026
-  },
-  {
     "date": "2026-08-11",
     "epsEstimate": -1.1903,
     "hour": "",
@@ -152,6 +141,17 @@
     "symbol": "ORCL",
     "theme": "Cloud / RPO / AI 数据中心",
     "year": 2027
+  },
+  {
+    "date": "2026-10-28",
+    "epsEstimate": 1.9445,
+    "hour": "amc",
+    "quarter": 3,
+    "revenueEstimate": 208813033689,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "AMZN",
+    "theme": "AWS / AI CapEx",
+    "year": 2026
   },
   {
     "date": "2026-10-27",
