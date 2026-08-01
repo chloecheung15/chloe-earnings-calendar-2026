@@ -56,10 +56,10 @@
   },
   {
     "date": "2026-07-30",
-    "epsEstimate": 1.9403,
+    "epsEstimate": 1.8554,
     "hour": "amc",
-    "quarter": 2,
-    "revenueEstimate": 207906913282,
+    "quarter": 1,
+    "revenueEstimate": 200397225972,
     "source": "Finnhub Earnings Calendar",
     "symbol": "AMZN",
     "theme": "AWS / AI CapEx",
@@ -88,7 +88,7 @@
     "year": 2027
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "epsEstimate": 0.4554,
     "hour": "amc",
     "quarter": 2,
@@ -118,17 +118,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "CRWV",
     "theme": "AI Cloud / Backlog / Debt",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-10",
-    "epsEstimate": -0.2856,
-    "hour": "",
-    "quarter": 2,
-    "revenueEstimate": 35677050,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "ASTS",
-    "theme": "Satellites / Deployment",
     "year": 2026
   },
   {
