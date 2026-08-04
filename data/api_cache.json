@@ -56,17 +56,17 @@
   },
   {
     "date": "2026-07-30",
-    "epsEstimate": 1.8554,
+    "epsEstimate": 1.9403,
     "hour": "amc",
-    "quarter": 1,
-    "revenueEstimate": 200397225972,
+    "quarter": 2,
+    "revenueEstimate": 207906913282,
     "source": "Finnhub Earnings Calendar",
     "symbol": "AMZN",
     "theme": "AWS / AI CapEx",
     "year": 2026
   },
   {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "epsEstimate": 3.3012,
     "hour": "amc",
     "quarter": 3,
@@ -143,6 +143,39 @@
     "year": 2027
   },
   {
+    "date": "2026-11-02",
+    "epsEstimate": 1.8517,
+    "hour": "amc",
+    "quarter": 3,
+    "revenueEstimate": 12501106279,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "AMD",
+    "theme": "AI GPU / Data Center",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "epsEstimate": 0.9289,
+    "hour": "amc",
+    "quarter": 3,
+    "revenueEstimate": 2988544563,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "ANET",
+    "theme": "AI Networking",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "epsEstimate": 0.3782,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 2037848381,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "PLTR",
+    "theme": "AIP / 政府与商业订单",
+    "year": 2026
+  },
+  {
     "date": "2026-10-28",
     "epsEstimate": 1.9445,
     "hour": "amc",
@@ -195,50 +228,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "GLW",
     "theme": "Optical Connectivity",
-    "year": 2026
-  },
-  {
-    "date": "2026-10-20",
-    "epsEstimate": 0.4492,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 28069760327,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "TSLA",
-    "theme": "AI / Robotaxi / Auto",
-    "year": 2026
-  },
-  {
-    "date": "2026-10-20",
-    "epsEstimate": 1.8344,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 3780295235,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "VRT",
-    "theme": "Power / Cooling",
-    "year": 2026
-  },
-  {
-    "date": "2026-10-19",
-    "epsEstimate": 7.5345,
-    "hour": "bmo",
-    "quarter": 3,
-    "revenueEstimate": 20610711894,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "LMT",
-    "theme": "Missile Defense",
-    "year": 2026
-  },
-  {
-    "date": "2026-10-19",
-    "epsEstimate": 1.7865,
-    "hour": "bmo",
-    "quarter": 3,
-    "revenueEstimate": 24234764351,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "RTX",
-    "theme": "Missile Defense / Aerospace",
     "year": 2026
   }
 ]
