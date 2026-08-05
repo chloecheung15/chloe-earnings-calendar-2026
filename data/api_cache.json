@@ -66,7 +66,7 @@
     "year": 2026
   },
   {
-    "date": "2026-09-03",
+    "date": "2026-09-02",
     "epsEstimate": 3.3012,
     "hour": "amc",
     "quarter": 3,
@@ -75,6 +75,17 @@
     "symbol": "AVGO",
     "theme": "ASIC / AI Networking",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "epsEstimate": 0.4554,
+    "hour": "amc",
+    "quarter": 2,
+    "revenueEstimate": 1511567814,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "SNOW",
+    "theme": "AI Data Cloud",
+    "year": 2027
   },
   {
     "date": "2026-08-26",
@@ -101,7 +112,7 @@
   {
     "date": "2026-08-11",
     "epsEstimate": -1.2221,
-    "hour": "",
+    "hour": "amc",
     "quarter": 2,
     "revenueEstimate": 2612061308,
     "source": "Finnhub Earnings Calendar",
@@ -130,6 +141,17 @@
     "symbol": "ORCL",
     "theme": "Cloud / RPO / AI 数据中心",
     "year": 2027
+  },
+  {
+    "date": "2026-11-03",
+    "epsEstimate": 0.3541,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 84848080,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "LEU",
+    "theme": "HALEU / Nuclear Fuel",
+    "year": 2026
   },
   {
     "date": "2026-11-02",
@@ -207,16 +229,5 @@
     "symbol": "MSFT",
     "theme": "Azure / AI CapEx",
     "year": 2027
-  },
-  {
-    "date": "2026-10-26",
-    "epsEstimate": 0.877,
-    "hour": "bmo",
-    "quarter": 3,
-    "revenueEstimate": 5028179960,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "GLW",
-    "theme": "Optical Connectivity",
-    "year": 2026
   }
 ]
