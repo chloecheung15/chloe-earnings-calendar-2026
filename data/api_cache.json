@@ -143,6 +143,39 @@
     "year": 2027
   },
   {
+    "date": "2026-11-04",
+    "epsEstimate": 3.6562,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 9862086086,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "CEG",
+    "theme": "Nuclear / Data Center Power",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "epsEstimate": 41.473,
+    "hour": "",
+    "quarter": 1,
+    "revenueEstimate": 10255049328,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "SNDK",
+    "theme": "Data Center Storage",
+    "year": 2027
+  },
+  {
+    "date": "2026-11-04",
+    "epsEstimate": 2.8626,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 7554475386,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "VST",
+    "theme": "Power / Data Center Demand",
+    "year": 2026
+  },
+  {
     "date": "2026-11-03",
     "epsEstimate": 0.3541,
     "hour": "",
@@ -196,38 +229,5 @@
     "symbol": "AMZN",
     "theme": "AWS / AI CapEx",
     "year": 2026
-  },
-  {
-    "date": "2026-10-27",
-    "epsEstimate": 3.1009,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 130843947770,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "GOOGL",
-    "theme": "Cloud / TPU / AI CapEx",
-    "year": 2026
-  },
-  {
-    "date": "2026-10-27",
-    "epsEstimate": 7.1215,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 64410198213,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "META",
-    "theme": "AI CapEx / 数据中心",
-    "year": 2026
-  },
-  {
-    "date": "2026-10-27",
-    "epsEstimate": 4.7263,
-    "hour": "",
-    "quarter": 1,
-    "revenueEstimate": 91491184249,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "MSFT",
-    "theme": "Azure / AI CapEx",
-    "year": 2027
   }
 ]
