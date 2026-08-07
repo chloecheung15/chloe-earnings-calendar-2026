@@ -56,10 +56,10 @@
   },
   {
     "date": "2026-07-30",
-    "epsEstimate": 1.9403,
+    "epsEstimate": 1.8554,
     "hour": "amc",
-    "quarter": 2,
-    "revenueEstimate": 207906913282,
+    "quarter": 1,
+    "revenueEstimate": 200397225972,
     "source": "Finnhub Earnings Calendar",
     "symbol": "AMZN",
     "theme": "AWS / AI CapEx",
