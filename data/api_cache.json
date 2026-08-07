@@ -101,7 +101,7 @@
   {
     "date": "2026-08-13",
     "epsEstimate": -0.102,
-    "hour": "",
+    "hour": "bmo",
     "quarter": 2,
     "revenueEstimate": 220654335,
     "source": "Finnhub Earnings Calendar",
@@ -217,17 +217,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "PLTR",
     "theme": "AIP / 政府与商业订单",
-    "year": 2026
-  },
-  {
-    "date": "2026-10-28",
-    "epsEstimate": 1.9445,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 208813033689,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "AMZN",
-    "theme": "AWS / AI CapEx",
     "year": 2026
   }
 ]
