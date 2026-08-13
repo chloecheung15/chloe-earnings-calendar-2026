@@ -220,6 +220,17 @@
     "year": 2026
   },
   {
+    "date": "2026-11-11",
+    "epsEstimate": -1.0906,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 3497010105,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "CRWV",
+    "theme": "AI Cloud / Backlog / Debt",
+    "year": 2026
+  },
+  {
     "date": "2026-11-09",
     "epsEstimate": -0.2831,
     "hour": "",
