@@ -89,10 +89,10 @@
   },
   {
     "date": "2026-08-26",
-    "epsEstimate": 2.1283,
+    "epsEstimate": 2.1384,
     "hour": "amc",
     "quarter": 2,
-    "revenueEstimate": 93634391959,
+    "revenueEstimate": 94008645045,
     "source": "Finnhub Earnings Calendar",
     "symbol": "NVDA",
     "theme": "AI GPU / Data Center",
@@ -107,17 +107,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "LUNR",
     "theme": "Moon / NASA Contracts",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-11",
-    "epsEstimate": -1.24,
-    "hour": "amc",
-    "quarter": 2,
-    "revenueEstimate": 2611110688,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "CRWV",
-    "theme": "AI Cloud / Backlog / Debt",
     "year": 2026
   },
   {
