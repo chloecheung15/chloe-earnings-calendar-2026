@@ -240,16 +240,5 @@
     "symbol": "ASTS",
     "theme": "Satellites / Deployment",
     "year": 2026
-  },
-  {
-    "date": "2026-11-09",
-    "epsEstimate": -0.2101,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 582328,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "OKLO",
-    "theme": "Advanced Nuclear / Regulatory",
-    "year": 2026
   }
 ]
