@@ -22,28 +22,6 @@
     "year": 2026
   },
   {
-    "date": "2026-08-04",
-    "epsEstimate": 1.6313,
-    "hour": "amc",
-    "quarter": 2,
-    "revenueEstimate": 11396426778,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "AMD",
-    "theme": "AI GPU / Data Center",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-04",
-    "epsEstimate": 0.9026,
-    "hour": "amc",
-    "quarter": 2,
-    "revenueEstimate": 2873870461,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "ANET",
-    "theme": "AI Networking",
-    "year": 2026
-  },
-  {
     "date": "2026-09-02",
     "epsEstimate": 3.3013,
     "hour": "amc",
