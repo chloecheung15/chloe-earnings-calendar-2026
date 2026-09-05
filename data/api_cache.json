@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-08-05",
-    "epsEstimate": 0.7595,
-    "hour": "amc",
-    "quarter": 2,
-    "revenueEstimate": 151348136,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "LEU",
-    "theme": "HALEU / Nuclear Fuel",
-    "year": 2026
-  },
-  {
-    "date": "2026-08-05",
-    "epsEstimate": 35.1395,
-    "hour": "amc",
-    "quarter": 4,
-    "revenueEstimate": 8561788200,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "SNDK",
-    "theme": "Data Center Storage",
-    "year": 2026
-  },
-  {
     "date": "2026-09-02",
     "epsEstimate": 3.3013,
     "hour": "amc",
@@ -79,7 +57,7 @@
   {
     "date": "2026-09-10",
     "epsEstimate": 1.7766,
-    "hour": "",
+    "hour": "amc",
     "quarter": 1,
     "revenueEstimate": 19527219180,
     "source": "Finnhub Earnings Calendar",
