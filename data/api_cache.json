@@ -185,5 +185,16 @@
     "symbol": "ASTS",
     "theme": "Satellites / Deployment",
     "year": 2026
+  },
+  {
+    "date": "2026-12-08",
+    "epsEstimate": 1.9334,
+    "hour": "",
+    "quarter": 2,
+    "revenueEstimate": 21641922817,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "ORCL",
+    "theme": "Cloud / RPO / AI 数据中心",
+    "year": 2027
   }
 ]
