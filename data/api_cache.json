@@ -187,6 +187,17 @@
     "year": 2026
   },
   {
+    "date": "2026-12-09",
+    "epsEstimate": 3.953,
+    "hour": "amc",
+    "quarter": 4,
+    "revenueEstimate": 35731877652,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "AVGO",
+    "theme": "ASIC / AI Networking",
+    "year": 2026
+  },
+  {
     "date": "2026-12-08",
     "epsEstimate": 1.9334,
     "hour": "",
