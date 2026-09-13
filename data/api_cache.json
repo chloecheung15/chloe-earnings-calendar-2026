@@ -33,17 +33,6 @@
     "year": 2027
   },
   {
-    "date": "2026-08-13",
-    "epsEstimate": -0.0991,
-    "hour": "bmo",
-    "quarter": 2,
-    "revenueEstimate": 220654335,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "LUNR",
-    "theme": "Moon / NASA Contracts",
-    "year": 2026
-  },
-  {
     "date": "2026-09-30",
     "epsEstimate": 32.2138,
     "hour": "amc",
