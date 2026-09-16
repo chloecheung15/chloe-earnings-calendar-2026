@@ -176,6 +176,17 @@
     "year": 2026
   },
   {
+    "date": "2026-12-15",
+    "epsEstimate": 35.8818,
+    "hour": "amc",
+    "quarter": 1,
+    "revenueEstimate": 58092916185,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "MU",
+    "theme": "HBM / Memory",
+    "year": 2027
+  },
+  {
     "date": "2026-12-09",
     "epsEstimate": 3.9012,
     "hour": "amc",
