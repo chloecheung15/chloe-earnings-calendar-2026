@@ -56,17 +56,6 @@
   },
   {
     "date": "2026-11-03",
-    "epsEstimate": 0.111,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 65136243,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "LEU",
-    "theme": "HALEU / Nuclear Fuel",
-    "year": 2026
-  },
-  {
-    "date": "2026-11-02",
     "epsEstimate": 1.0953,
     "hour": "amc",
     "quarter": 3,
@@ -74,6 +63,17 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "ANET",
     "theme": "AI Networking",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "epsEstimate": 0.111,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 65136243,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "LEU",
+    "theme": "HALEU / Nuclear Fuel",
     "year": 2026
   },
   {
