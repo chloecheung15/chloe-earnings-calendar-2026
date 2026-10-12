@@ -22,17 +22,6 @@
     "year": 2026
   },
   {
-    "date": "2026-11-04",
-    "epsEstimate": 3.8218,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 9411197170,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "CEG",
-    "theme": "Nuclear / Data Center Power",
-    "year": 2026
-  },
-  {
     "date": "2026-11-03",
     "epsEstimate": 1.9601,
     "hour": "amc",
@@ -55,14 +44,14 @@
     "year": 2026
   },
   {
-    "date": "2026-11-03",
-    "epsEstimate": 0.111,
-    "hour": "",
+    "date": "2026-10-29",
+    "epsEstimate": 1.9913,
+    "hour": "amc",
     "quarter": 3,
-    "revenueEstimate": 65136243,
+    "revenueEstimate": 206154527711,
     "source": "Finnhub Earnings Calendar",
-    "symbol": "LEU",
-    "theme": "HALEU / Nuclear Fuel",
+    "symbol": "AMZN",
+    "theme": "AWS / AI CapEx",
     "year": 2026
   },
   {
@@ -99,14 +88,14 @@
     "year": 2026
   },
   {
-    "date": "2026-11-09",
-    "epsEstimate": -0.4227,
+    "date": "2026-11-11",
+    "epsEstimate": 0.111,
     "hour": "",
     "quarter": 3,
-    "revenueEstimate": 47667150,
+    "revenueEstimate": 65136243,
     "source": "Finnhub Earnings Calendar",
-    "symbol": "ASTS",
-    "theme": "Satellites / Deployment",
+    "symbol": "LEU",
+    "theme": "HALEU / Nuclear Fuel",
     "year": 2026
   },
   {
