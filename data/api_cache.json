@@ -77,6 +77,28 @@
     "year": 2027
   },
   {
+    "date": "2026-11-18",
+    "epsEstimate": -0.1253,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 250606860,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "LUNR",
+    "theme": "Moon / NASA Contracts",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "epsEstimate": -0.2436,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 888124,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "OKLO",
+    "theme": "Advanced Nuclear / Regulatory",
+    "year": 2026
+  },
+  {
     "date": "2026-11-17",
     "epsEstimate": 2.5259,
     "hour": "amc",
@@ -88,7 +110,18 @@
     "year": 2027
   },
   {
-    "date": "2026-11-11",
+    "date": "2026-11-16",
+    "epsEstimate": -0.4227,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 47228550,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "ASTS",
+    "theme": "Satellites / Deployment",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-16",
     "epsEstimate": -1.1814,
     "hour": "",
     "quarter": 3,
