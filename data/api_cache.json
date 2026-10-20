@@ -1,10 +1,10 @@
 [
   {
     "date": "2026-09-30",
-    "epsEstimate": 32.5625,
+    "epsEstimate": 39.3702,
     "hour": "amc",
     "quarter": 4,
-    "revenueEstimate": 52601457661,
+    "revenueEstimate": 63792594667,
     "source": "Finnhub Earnings Calendar",
     "symbol": "MU",
     "theme": "HBM / Memory",
@@ -15,18 +15,29 @@
     "epsEstimate": 2.9537,
     "hour": "",
     "quarter": 3,
-    "revenueEstimate": 7030767388,
+    "revenueEstimate": 6853562050,
     "source": "Finnhub Earnings Calendar",
     "symbol": "VST",
     "theme": "Power / Data Center Demand",
     "year": 2026
   },
   {
+    "date": "2026-11-04",
+    "epsEstimate": 3.7905,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 9351171860,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "CEG",
+    "theme": "Nuclear / Data Center Power",
+    "year": 2026
+  },
+  {
     "date": "2026-11-03",
-    "epsEstimate": 1.9652,
+    "epsEstimate": 1.9664,
     "hour": "amc",
     "quarter": 3,
-    "revenueEstimate": 13209547408,
+    "revenueEstimate": 13215462917,
     "source": "Finnhub Earnings Calendar",
     "symbol": "AMD",
     "theme": "AI GPU / Data Center",
@@ -55,17 +66,6 @@
     "year": 2026
   },
   {
-    "date": "2026-10-29",
-    "epsEstimate": 1.9998,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 206192815298,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "AMZN",
-    "theme": "AWS / AI CapEx",
-    "year": 2026
-  },
-  {
     "date": "2026-12-01",
     "epsEstimate": 0.6107,
     "hour": "amc",
@@ -78,24 +78,13 @@
   },
   {
     "date": "2026-11-18",
-    "epsEstimate": -0.1253,
+    "epsEstimate": -0.1244,
     "hour": "",
     "quarter": 3,
-    "revenueEstimate": 250606860,
+    "revenueEstimate": 250796121,
     "source": "Finnhub Earnings Calendar",
     "symbol": "LUNR",
     "theme": "Moon / NASA Contracts",
-    "year": 2026
-  },
-  {
-    "date": "2026-11-18",
-    "epsEstimate": -0.2436,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 888124,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "OKLO",
-    "theme": "Advanced Nuclear / Regulatory",
     "year": 2026
   },
   {
@@ -110,22 +99,11 @@
     "year": 2027
   },
   {
-    "date": "2026-11-16",
-    "epsEstimate": -0.4227,
+    "date": "2026-11-11",
+    "epsEstimate": -1.1862,
     "hour": "",
     "quarter": 3,
-    "revenueEstimate": 47228550,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "ASTS",
-    "theme": "Satellites / Deployment",
-    "year": 2026
-  },
-  {
-    "date": "2026-11-16",
-    "epsEstimate": -1.1814,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 3612236353,
+    "revenueEstimate": 3615846592,
     "source": "Finnhub Earnings Calendar",
     "symbol": "CRWV",
     "theme": "AI Cloud / Backlog / Debt",
@@ -144,10 +122,10 @@
   },
   {
     "date": "2026-12-15",
-    "epsEstimate": 39.2978,
+    "epsEstimate": 43.3867,
     "hour": "amc",
     "quarter": 1,
-    "revenueEstimate": 63700121267,
+    "revenueEstimate": 69315341975,
     "source": "Finnhub Earnings Calendar",
     "symbol": "MU",
     "theme": "HBM / Memory",
@@ -155,7 +133,7 @@
   },
   {
     "date": "2026-12-09",
-    "epsEstimate": 3.8995,
+    "epsEstimate": 3.9001,
     "hour": "amc",
     "quarter": 4,
     "revenueEstimate": 35573811128,
