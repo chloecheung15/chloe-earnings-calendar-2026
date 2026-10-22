@@ -1,10 +1,10 @@
 [
   {
     "date": "2026-09-30",
-    "epsEstimate": 39.3702,
+    "epsEstimate": 32.5625,
     "hour": "amc",
     "quarter": 4,
-    "revenueEstimate": 63792594667,
+    "revenueEstimate": 52601457661,
     "source": "Finnhub Earnings Calendar",
     "symbol": "MU",
     "theme": "HBM / Memory",
@@ -56,10 +56,10 @@
   },
   {
     "date": "2026-10-29",
-    "epsEstimate": 1.9986,
+    "epsEstimate": 2.001,
     "hour": "amc",
     "quarter": 3,
-    "revenueEstimate": 206250130608,
+    "revenueEstimate": 206288109339,
     "source": "Finnhub Earnings Calendar",
     "symbol": "AMZN",
     "theme": "AWS / AI CapEx",
