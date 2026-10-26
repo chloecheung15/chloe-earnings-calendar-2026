@@ -56,10 +56,10 @@
   },
   {
     "date": "2026-11-02",
-    "epsEstimate": 0.4231,
+    "epsEstimate": 0.4225,
     "hour": "",
     "quarter": 3,
-    "revenueEstimate": 2223614239,
+    "revenueEstimate": 2225003744,
     "source": "Finnhub Earnings Calendar",
     "symbol": "PLTR",
     "theme": "AIP / 政府与商业订单",
@@ -77,6 +77,17 @@
     "year": 2027
   },
   {
+    "date": "2026-11-25",
+    "epsEstimate": 2.5263,
+    "hour": "amc",
+    "quarter": 3,
+    "revenueEstimate": 111356225808,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "NVDA",
+    "theme": "AI GPU / Data Center",
+    "year": 2027
+  },
+  {
     "date": "2026-11-18",
     "epsEstimate": -0.1244,
     "hour": "",
@@ -89,7 +100,7 @@
   },
   {
     "date": "2026-11-18",
-    "epsEstimate": -0.2457,
+    "epsEstimate": -0.2469,
     "hour": "",
     "quarter": 3,
     "revenueEstimate": 945682,
@@ -97,17 +108,6 @@
     "symbol": "OKLO",
     "theme": "Advanced Nuclear / Regulatory",
     "year": 2026
-  },
-  {
-    "date": "2026-11-17",
-    "epsEstimate": 2.5263,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 111356225808,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "NVDA",
-    "theme": "AI GPU / Data Center",
-    "year": 2027
   },
   {
     "date": "2026-11-16",
@@ -122,10 +122,10 @@
   },
   {
     "date": "2026-11-16",
-    "epsEstimate": -1.1815,
+    "epsEstimate": -1.1831,
     "hour": "",
     "quarter": 3,
-    "revenueEstimate": 3615314203,
+    "revenueEstimate": 3618066041,
     "source": "Finnhub Earnings Calendar",
     "symbol": "CRWV",
     "theme": "AI Cloud / Backlog / Debt",
@@ -155,10 +155,10 @@
   },
   {
     "date": "2026-12-08",
-    "epsEstimate": 1.9304,
+    "epsEstimate": 1.9322,
     "hour": "",
     "quarter": 2,
-    "revenueEstimate": 21758686073,
+    "revenueEstimate": 21762632973,
     "source": "Finnhub Earnings Calendar",
     "symbol": "ORCL",
     "theme": "Cloud / RPO / AI 数据中心",
