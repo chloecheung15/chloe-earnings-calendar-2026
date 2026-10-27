@@ -12,6 +12,17 @@
   },
   {
     "date": "2026-11-06",
+    "epsEstimate": -0.2469,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 945682,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "OKLO",
+    "theme": "Advanced Nuclear / Regulatory",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-06",
     "epsEstimate": 2.9622,
     "hour": "",
     "quarter": 3,
@@ -96,17 +107,6 @@
     "source": "Finnhub Earnings Calendar",
     "symbol": "LUNR",
     "theme": "Moon / NASA Contracts",
-    "year": 2026
-  },
-  {
-    "date": "2026-11-18",
-    "epsEstimate": -0.2469,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 945682,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "OKLO",
-    "theme": "Advanced Nuclear / Regulatory",
     "year": 2026
   },
   {
