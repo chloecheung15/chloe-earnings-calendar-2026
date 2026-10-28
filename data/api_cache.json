@@ -88,17 +88,6 @@
     "year": 2027
   },
   {
-    "date": "2026-11-25",
-    "epsEstimate": 2.5263,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 111356225808,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "NVDA",
-    "theme": "AI GPU / Data Center",
-    "year": 2027
-  },
-  {
     "date": "2026-11-18",
     "epsEstimate": -0.1244,
     "hour": "",
@@ -110,15 +99,15 @@
     "year": 2026
   },
   {
-    "date": "2026-11-16",
-    "epsEstimate": -0.4227,
-    "hour": "",
+    "date": "2026-11-17",
+    "epsEstimate": 2.5263,
+    "hour": "amc",
     "quarter": 3,
-    "revenueEstimate": 47228550,
+    "revenueEstimate": 111356225808,
     "source": "Finnhub Earnings Calendar",
-    "symbol": "ASTS",
-    "theme": "Satellites / Deployment",
-    "year": 2026
+    "symbol": "NVDA",
+    "theme": "AI GPU / Data Center",
+    "year": 2027
   },
   {
     "date": "2026-11-16",
