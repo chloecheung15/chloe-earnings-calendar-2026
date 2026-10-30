@@ -66,17 +66,6 @@
     "year": 2026
   },
   {
-    "date": "2026-11-02",
-    "epsEstimate": 0.4225,
-    "hour": "amc",
-    "quarter": 3,
-    "revenueEstimate": 2225003744,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "PLTR",
-    "theme": "AIP / 政府与商业订单",
-    "year": 2026
-  },
-  {
     "date": "2026-12-01",
     "epsEstimate": 0.6107,
     "hour": "amc",
