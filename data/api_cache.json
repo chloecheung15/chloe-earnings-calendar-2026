@@ -66,17 +66,6 @@
     "year": 2027
   },
   {
-    "date": "2026-11-18",
-    "epsEstimate": -0.1244,
-    "hour": "",
-    "quarter": 3,
-    "revenueEstimate": 250796121,
-    "source": "Finnhub Earnings Calendar",
-    "symbol": "LUNR",
-    "theme": "Moon / NASA Contracts",
-    "year": 2026
-  },
-  {
     "date": "2026-11-17",
     "epsEstimate": 2.5263,
     "hour": "amc",
@@ -86,6 +75,17 @@
     "symbol": "NVDA",
     "theme": "AI GPU / Data Center",
     "year": 2027
+  },
+  {
+    "date": "2026-11-12",
+    "epsEstimate": -0.1244,
+    "hour": "",
+    "quarter": 3,
+    "revenueEstimate": 250796121,
+    "source": "Finnhub Earnings Calendar",
+    "symbol": "LUNR",
+    "theme": "Moon / NASA Contracts",
+    "year": 2026
   },
   {
     "date": "2026-11-10",
