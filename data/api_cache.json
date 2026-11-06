@@ -79,7 +79,7 @@
   {
     "date": "2026-11-12",
     "epsEstimate": -0.1244,
-    "hour": "",
+    "hour": "bmo",
     "quarter": 3,
     "revenueEstimate": 250796121,
     "source": "Finnhub Earnings Calendar",
