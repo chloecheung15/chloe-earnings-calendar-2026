@@ -55,8 +55,8 @@
     "year": 2026
   },
   {
-    "date": "2026-12-02",
-    "epsEstimate": 0.6107,
+    "date": "2026-12-03",
+    "epsEstimate": 0.6089,
     "hour": "amc",
     "quarter": 3,
     "revenueEstimate": 1685357536,
@@ -111,7 +111,7 @@
   },
   {
     "date": "2026-12-14",
-    "epsEstimate": 1.9298,
+    "epsEstimate": 1.9308,
     "hour": "",
     "quarter": 2,
     "revenueEstimate": 21758110446,
